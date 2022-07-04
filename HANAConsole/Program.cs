@@ -20,6 +20,7 @@ namespace HANAConsole
             var a = testTable.Rows[0][0];
             conn.Close();
 
+
             
         }
     }
